@@ -1,6 +1,10 @@
 ## Hi 👋! I'm Naman Shah
 ###
 
+<h3 align="center">
+<h3 align="center">ECE Student · Web Developer · Creative Technologist · Exploring AI & 3D Web Worlds</h3>
+</h3>
+---
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Nishu-dev14&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishu-dev14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
