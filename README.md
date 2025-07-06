@@ -1,6 +1,5 @@
 ## Hi 👋! I'm Naman Shah
 ###
-
 <h3 align="center">
 <h3 align="center"> ECE Student  · Creative Technologist · Exploring AI </h3>
 </h3>
