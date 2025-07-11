@@ -1,15 +1,15 @@
 ## Hi 👋! I'm Naman Shah
 ###
-<h3 align="center">
 
-  
+
+<h3 align="center">
 <h3 align="center">  ECE Student  · Creative Technologist · Exploring AI . web developer </h3>
 </h3>
 
 
 
-⚡ Fun fact: ... my name is Pallindrome
-- 😄 Pronouns: ... he/him
+ - ⚡ Fun fact: ... My name is Pallindrome
+ - 😄 Pronouns: ... he/him
   
 
 <!--
