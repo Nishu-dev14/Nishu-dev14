@@ -7,9 +7,6 @@
 </h3>
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nishu-dev14&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
 
 ⚡ Fun fact: ... my name is Pallindrome
 - 😄 Pronouns: ... he/him
@@ -27,5 +24,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-- 
+- <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Nishu-dev14&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
 -->
