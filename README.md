@@ -2,7 +2,7 @@
 ###
 
 
-<h3 align="center">
+
 <h3 align="center">  ECE Student  · Creative Technologist · Exploring AI . web developer </h3>
 </h3>
 
