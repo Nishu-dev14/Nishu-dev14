@@ -9,7 +9,7 @@
 
 
  - ⚡ Fun fact: ... My name is Pallindrome
- - 😄 Pronouns: ... he/him
+ - 😄 
   
 
 <!--
