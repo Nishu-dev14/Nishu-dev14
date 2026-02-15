@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ... python
 -  👯 I’m looking to collaborate on  Open Source projects preferably Python
 - 🤔 I’m looking for help with Python Projects
--  <div align="center">
+   <div align="center">
   <img src="https://streak-stats.demolab.com?user=Nishu-dev14&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 <!--
